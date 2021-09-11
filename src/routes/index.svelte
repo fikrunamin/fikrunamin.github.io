@@ -17,7 +17,7 @@
 
 </script>
 <svelte:head>
-    <title>Home | Fikrun Amin</title>
+    <title>Muhammad Fikrun Amin</title>
 </svelte:head>
 <Container>
     <Left>
