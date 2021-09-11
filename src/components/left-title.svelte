@@ -2,7 +2,7 @@
     export let title
     export let id
 </script>
-<div class="flex items-center text-right h-full" id={id}>
+<div class="flex items-center text-right h-full w-full" id={id}>
     <div>
         <div class="flex justify-end">
             <h3 class="font-bold text-6xl text-gray-900 z-10">{title}</h3>

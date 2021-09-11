@@ -106,7 +106,7 @@
                     period="2021"
                     title="Web Buku"
                     description="Codeigniter 4, MySQL, JQuery, Tailwind"
-                    image="#"
+                    image="experiments/buku.png"
                     source="https://github.com/fikrunamin/web-buku"
                 />
                 <ProjectCard
@@ -120,35 +120,35 @@
                     period="2021"
                     title="NLP Covid Chatbot"
                     description="Flask, Tensorflow, Tailwind"
-                    image="#"
+                    image="experiments/nlp.png"
                     source="https://github.com/fikrunamin/nlp-chatbot"
                 />
                 <ProjectCard
                     period="2021"
                     title="Dental & Mouth Medical Chatbot"
                     description="Flask, Tensorflow, Codeigniter 4, JQuery, Tailwind"
-                    image="#"
+                    image="experiments/ws2.png"
                     source="https://github.com/fikrunamin/nlp-module-workshop-2"
                 />
                 <ProjectCard
                     period="2021"
                     title="Expert System in Diagnosis Dental and Mouth Disease"
                     description="PHP, MySQL, Javascript, Bootstrap"
-                    image="#"
+                    image="experiments/kbs.png"
                     source="https://github.com/fikrunamin/expert-system-in-diagnosis-dental-and-mouth-disease"
                 />
                 <ProjectCard
                     period="2021"
                     title="Web Sekolah"
                     description="Laravel 8, MySQL, JQuery, Tailwind"
-                    image="#"
+                    image="experiments/sekolah.png"
                     source="https://github.com/fikrunamin/pelatihan-clevio-tugas-checkpoint-3"
                 />
                 <ProjectCard
                     period="2021"
                     title="Fitness Management System"
                     description="Codeigniter 4, MySQL, JQuery, Tailwind"
-                    image="#"
+                    image="experiments/fitness.png"
                     source="https://github.com/fikrunamin/fitness-management-system"
                 />
                 <ProjectCard
