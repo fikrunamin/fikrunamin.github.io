@@ -37,7 +37,8 @@
             <a href="https://www.facebook.com/fikrun.amin/" target="_blank" class="hover:underline">Facebook</a> &middot;
             <a href="https://www.instagram.com/fikrun.amin/" target="_blank" class="hover:underline">Instagram</a> &middot;
             <a href="https://github.com/fikrunamin" target="_blank" class="hover:underline">GitHub</a> &middot;
-            <a href="https://www.linkedin.com/in/fikrun-amin-m-399a08132/" target="_blank" class="hover:underline">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/fikrun-amin-m-399a08132/" target="_blank" class="hover:underline">LinkedIn</a> &middot;
+            <a href="https://my.indeed.com/p/muhammadf-17fugla" target="_blank" class="hover:underline">CV</a>
         </div>
         <Continue link="#education" on:goto={goto}/>
     </Right>

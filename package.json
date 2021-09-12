@@ -7,7 +7,9 @@
         "build": "svelte-kit build",
         "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
         "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
-        "deploy": "node ./gh-pages.js"
+        "deploy1": "npm run build && npx gh-pages -d build",
+        "build2": "rm -rf build && svelte-kit build && touch ./build/.nojekyll",
+        "deploy2": "npm run build && npx gh-pages -d ./build -t true"
     },
     "devDependencies": {
         "@sveltejs/kit": "next",
